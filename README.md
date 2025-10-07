@@ -38,7 +38,7 @@ It helps organizations gather insights and improve the user experience through s
 
 ## 💡 How to Run
 1. Clone the repository:
-   git clone https://github.com/Akash585-collab/Feedback-collection-system-phase4.git 
+   git clone https://github.com/alagum407-dot/Feedback-collection-system-phase4.git
 
 
 
